@@ -1,7 +1,7 @@
 import unittest
 import requests
 
-class TestStringMethods(unittest.TestCase):
+class TestApiMethods(unittest.TestCase):
 
     URL = "http://127.0.0.1:5000"
 
